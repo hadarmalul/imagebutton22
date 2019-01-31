@@ -18,5 +18,6 @@
         android:id="@+id/ib"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:onClick="imgclick"
         app:srcCompat="@drawable/clickforimage" />
 </LinearLayout>

@@ -39,6 +39,6 @@ public class MainActivity extends AppCompatActivity {
         if (x==3) {
             ib.setImageResource(R.drawable.three);
             iv.setImageResource(R.drawable.squidward);
-        }
+         }
     }
 }
